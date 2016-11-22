@@ -16,18 +16,24 @@ body{
 	height:430px;
 }
 .headertext{
+	width: 626px;
+	height: 376px;
 	padding-top:27px;
 	padding-right:27px;
-	padding-bottom: 27px;
+	padding-bottom:27px;
 	padding-left:27px;
 }
+
 .headertext p{
-	font-family: MicrosoftJhengHeiReular;
+	font-family:微軟正黑體;
 	font-size:17px;
 	color:#000000;
-	line-height: 40px;　　　          　/* 設定文字行距 */
-    letter-spacing: 3px;　            　/* 設定文字間距 */
+	margin-top: 0px;
+	margin-bottom: 40px;
+	line-height: 31px;　　　          　/* 設定文字行距 */
+  /*letter-spacing: 3px;　            　/* 設定文字間距 */
 }
+
 .headerblock2{
 	float:right;
 	margin-right:219px;
@@ -108,7 +114,7 @@ body{
 	margin-top: 0px;
 	margin-bottom: 0px;
     font-size: 30px;
-    font-family: MicrosoftJhengHeiReular;
+    font-family: :微軟正黑體;
     /*line-height: 30px;*/　　　          　
     letter-spacing: 3px;
 }
@@ -118,7 +124,7 @@ body{
 .text p{
 
     font-size: 17px;
-    font-family: MicrosoftJhengHeiReular;
+    font-family:微軟正黑體 ;
     line-height: 12px;　　　          　
     letter-spacing: 2px;
 }
