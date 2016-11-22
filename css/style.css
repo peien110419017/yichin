@@ -52,6 +52,7 @@ body{
 	border: 3px solid #CAD593;
 	border-top-left-radius:5px;
 	border-top-right-radius:5px;
+	font-family: 微軟正黑體;
 }
 .a a{
 	font-size:17px;
@@ -81,6 +82,7 @@ body{
 	border: 3px solid #F9F7F8;
 	border-top-left-radius:5px;
 	border-top-right-radius:5px;
+	font-family: 微軟正黑體;
 }
 .site-nav a {
 	font-size:17px;
