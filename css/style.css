@@ -1,0 +1,171 @@
+body{
+	max-width: 1580px;
+	max-height: 2642px;
+	margin-right: auto;
+	margin-left:auto;
+	background-color: #343A4B;
+}
+.header{
+	margin-left:552px;
+}
+.headerblock1{
+	float:left;
+	margin-left:224px;
+	background-color: #CAD593;
+	width:680px;
+	height:430px;
+}
+.headertext{
+	padding-top:27px;
+	padding-right:27px;
+	padding-bottom: 27px;
+	padding-left:27px;
+}
+.headertext p{
+	font-family: MicrosoftJhengHeiReular;
+	font-size:17px;
+	color:#000000;
+	line-height: 40px;　　　          　/* 設定文字行距 */
+    letter-spacing: 3px;　            　/* 設定文字間距 */
+}
+.headerblock2{
+	float:right;
+	margin-right:219px;
+	width:431px;
+	height:431px;
+}
+.site-nav a:hover {
+    background-color: #CAD593;
+}
+.a{
+	margin-left:200px;
+	list-style: none;
+	float: left;
+	margin-right: 18px;
+	background-color: #CAD593;
+	border: 3px solid #CAD593;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+}
+.a a{
+	font-size:17px;
+	display: block;
+	color: #000000;
+	text-decoration: none;
+	padding: 16px 43px;
+	border-bottom: none;
+}
+.site-nav {
+	margin-top: 20px;
+
+}
+
+.site-nav ul {
+
+	margin-top:45px;
+	padding: 0px;
+}
+
+.site-nav li {
+	list-style: none;
+	float: left;
+	margin-right: 18px;
+	background-color: #F9F7F8;
+	border: 3px solid #F9F7F8;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+}
+.site-nav a {
+	font-size:17px;
+	display: block;
+	color: #000000;
+	text-decoration: none;
+	padding: 16px 43px;
+	border-bottom: none;
+}
+.clear:after {
+	content:"";
+	display: block;
+	clear: both;
+}
+.cont{
+	margin-left:200px;
+}
+.img{
+	float:left;
+	padding-left: 23px;
+	padding-top:14px;
+}
+.intro{
+	float:left;
+	padding-left:67px;
+	padding-top:45px;
+	padding-bottom: 48px;
+	width: 690px;
+	height:186px;
+}
+.name p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+    font-size: 30px;
+    font-family: MicrosoftJhengHeiReular;
+    /*line-height: 30px;*/　　　          　
+    letter-spacing: 3px;
+}
+.text{
+	margin-top:24px;
+}
+.text p{
+
+    font-size: 17px;
+    font-family: MicrosoftJhengHeiReular;
+    line-height: 12px;　　　          　
+    letter-spacing: 2px;
+}
+.btn{
+	float:right;
+	padding-top: 59px;
+	padding-right: 37px;
+}
+.btn1{
+	margin-bottom: 24px;
+}
+.ahsin{
+	width:1181px;
+	height:279px;
+	background-color:#CAD593;
+}
+.monster{
+	width:1181px;
+	height:279px;
+	background-color:#F9F7F8;
+}
+.rock{
+	width:1181px;
+	height:279px;
+	background-color:#CAD593;
+}
+.marsa{
+	width:1181px;
+	height:279px;
+	background-color:#F9F7F8;
+}
+.yo{
+	width:1181px;
+	height:279px;
+	background-color:#CAD593;
+}
+
+footer{
+	margin-top:26px;
+}
+.footer4{
+	float:right;
+	margin-right:200px;
+	margin-bottom:26px;
+}
+.footer{
+	float:right;
+	margin-right:36px;
+
+}
